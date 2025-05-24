@@ -1,0 +1,1 @@
+# endustriyel-santiye-yonetim-sistemi
