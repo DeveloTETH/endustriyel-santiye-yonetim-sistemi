@@ -1,0 +1,24 @@
+/endustriyel_santiye_yonetim/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   ├── sidebar.php
+│   └── functions.php
+│
+├── modules/
+│   ├── auth/
+│   ├── projects/
+│   ├── personnel/
+│   ├── equipment/
+│   └── reports/
+│
+├── config.php
+├── database.sql
+├── index.php
+└── login.php
